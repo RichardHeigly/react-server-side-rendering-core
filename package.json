@@ -1,0 +1,19 @@
+{
+  "name": "react-server-side-rendering-core",
+  "version": "2.9.8",
+  "description": "Server side rendering for react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RichardHeigly/react-server-side-rendering-core.git"
+  },
+  "author": "Richard Heigly",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RichardHeigly/react-server-side-rendering-core/issues"
+  },
+  "homepage": "https://github.com/RichardHeigly/react-server-side-rendering-core#readme"
+}
