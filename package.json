@@ -1,6 +1,6 @@
 {
   "name": "react-server-side-rendering-core",
-  "version": "2.9.8",
+  "version": "2.9.9",
   "description": "Server side rendering for react",
   "main": "index.js",
   "scripts": {
